@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 I’m a Full Stack developer with a   passion for web development & system design.  I enjoy learning new things.</p>
+<p align="left">🌱 I’m a Full Stack developer with a   passion for system design & web development.  I enjoy learning new things.</p>
 
 ###
 
